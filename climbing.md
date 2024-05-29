@@ -23,6 +23,7 @@ List of what I take when going on a climb
 
 ### Head
 * Warm hat
+* Headphones
 * Headlamp (10 essentials)
 
 ### Hands

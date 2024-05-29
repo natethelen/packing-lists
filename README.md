@@ -6,6 +6,6 @@ someone and they want to know what they should pack.
 
 ## Lists
 
-* Backpacking
-* Climbing
-* Van
+* (Backpacking)[./backpacking.md]
+* (Climbing)[./climbing.md]
+* (Van)[./van.md]
