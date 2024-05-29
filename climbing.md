@@ -7,7 +7,7 @@ List of what I take when going on a climb
 ### Feet
 * Heated Socks
 * Mountaineering Boots
-* Snow gaters
+* Snow gaiters
 
 ### Pants
 * Long underwear
@@ -45,7 +45,7 @@ List of what I take when going on a climb
 * First aid kit (10 essentials)
 * Headlamp (10 essentials)
 * Toilet
-* Ice Axe
+* Ice axe
 * Helmet
 * Crampons
 * inReach
