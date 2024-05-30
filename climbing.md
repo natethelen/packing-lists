@@ -4,11 +4,11 @@ List of what I take when going on a climb
 
 ## Day before
 
-Charge sock batteries
-Charge glove batteries
-Charge watch
-Charge headphones
-Clip nails
+* Charge sock batteries
+* Charge glove batteries
+* Charge watch
+* Charge headphones
+* Clip nails
 
 ## Wearing day of
 
