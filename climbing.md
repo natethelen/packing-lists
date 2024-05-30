@@ -62,6 +62,7 @@ List of what I take when going on a climb
 * Second warm hat
 
 ## Optional Backpack
+* Permit (if needed)
 * Harness 
 * Second ice axe
 * Glassaider
