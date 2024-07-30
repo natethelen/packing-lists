@@ -19,33 +19,28 @@ List of what I take when I go on a backpacking trip.
 
 ## Backpack
 
-### Sleeping
-
-- [ ] Sleeping Bag
-- [ ] Sleeping Mat
-- [ ] Bivy or Tent
-- [ ] Ground cloth
-- [ ] Pillow
-
-### Clothes
-
-- [ ] Underwear
-- [ ] Quick dry shirt
-- [ ] Fleece pants
-- [ ] Black hiking coat
-- [ ] Rain/shell jacket
-- [ ] Puffy Jacket
-- [ ] Hiking socks
-- [ ] Scarf
-- [ ] Gloves
-- [ ] Warm Hat
+- [ ] Sleeping
+     - [ ] Sleeping Bag
+     - [ ] Sleeping Mat
+     - [ ] Bivy or Tent
+     - [ ] Ground cloth
+     - [ ] Pillow
+- [ ] Clothes
+     - [ ] Underwear
+     - [ ] Quick dry shirt
+     - [ ] Fleece pants
+     - [ ] Black hiking coat
+     - [ ] Rain/shell jacket
+     - [ ] Puffy Jacket
+     - [ ] Hiking socks
+     - [ ] Scarf
+     - [ ] Gloves
+     - [ ] Warm Hat
 - [ ] Camsite shoes
-
-### Food Prep
-
-- [ ] Cup
-- [ ] Spoon
-- [ ] Stove
+- [ ] Food Prep
+     - [ ] Cup
+     - [ ] Spoon
+     - [ ] Stove
 
 ## Top Carry
 
