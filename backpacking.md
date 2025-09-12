@@ -22,15 +22,14 @@ List of what I take when I go on a backpacking trip.
 - [ ] Sleeping
      - [ ] Sleeping Bag
      - [ ] Sleeping Mat
+     - [ ] Sleeping Mat Pump
      - [ ] Bivy or Tent
      - [ ] Ground cloth
-     - [ ] Pillow
 - [ ] Clothes
      - [ ] Underwear
      - [ ] Quick dry shirt
      - [ ] Fleece pants
      - [ ] Black hiking coat
-     - [ ] Rain/shell jacket
      - [ ] Puffy Jacket
      - [ ] Hiking socks
      - [ ] Scarf
@@ -82,8 +81,14 @@ List of what I take when I go on a backpacking trip.
 - [ ] Gaders
 - [ ] Walking Sticks
 
+## Rain Gear
+
+- [ ] Rain/shell jacket
+- [ ] Rain/shell pants
+
 ## Optionals
 
+- [ ] Sleeping bag liner
 - [ ] Long John Underwear
 - [ ] Camera pouch and camera
 - [ ] Solar charger
@@ -91,5 +96,6 @@ List of what I take when I go on a backpacking trip.
 - [ ] Glasses case
 - [ ] Mosquito Repellant
 - [ ] Solar Lamp
+- [ ] Pillow
 - [ ] Ribbon to mark the campsite
 
