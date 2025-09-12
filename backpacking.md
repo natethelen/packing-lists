@@ -35,6 +35,9 @@ List of what I take when I go on a backpacking trip.
      - [ ] Scarf
      - [ ] Gloves
      - [ ] Warm Hat
+     - [ ] Rain Gear (optional)
+          - [ ] Rain/Shell Coat
+          - [ ] Rain/Shell Pants
 - [ ] Camsite shoes
 - [ ] Food Prep
      - [ ] Cup
@@ -81,14 +84,10 @@ List of what I take when I go on a backpacking trip.
 - [ ] Gaders
 - [ ] Walking Sticks
 
-## Rain Gear
-
-- [ ] Rain/shell jacket
-- [ ] Rain/shell pants
-
 ## Optionals
 
 - [ ] Sleeping bag liner
+- [ ] Waffle sleeping mat
 - [ ] Long John Underwear
 - [ ] Camera pouch and camera
 - [ ] Solar charger
