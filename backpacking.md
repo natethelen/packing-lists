@@ -5,15 +5,12 @@ List of what I take when I go on a backpacking trip.
 ## Day before
 
 - [ ] Charge watch
-- [ ] Charge headphones
+- [ ] Charge battery
 - [ ] Clip nails
 
 ## Car
 
 - [ ] Forestry pass
-- [ ] Driving Sunglasses
-- [ ] USB Charger
-- [ ] Luggage Scale
 - [ ] Big Sunscreen
 - [ ] Big Water
 
@@ -22,9 +19,8 @@ List of what I take when I go on a backpacking trip.
 - [ ] Sleeping
      - [ ] Sleeping Bag
      - [ ] Sleeping Mat
-     - [ ] Sleeping Mat Pump
-     - [ ] Bivy or Tent
-     - [ ] Ground cloth
+     - [ ] Pillow
+     - [ ] Tent
 - [ ] Clothes
      - [ ] Underwear
      - [ ] Quick dry shirt
@@ -51,14 +47,15 @@ List of what I take when I go on a backpacking trip.
 - [ ] Toilet kit
 - [ ] Ziplock bag for trash
 - [ ] Water purification
-- [ ] Toothbrush, Toothpaste, Dental floss, night guard
+- [ ] Toothbrush, Toothpaste, Dental floss
 - [ ] Sunscreen
 - [ ] Face/Body wipes
 - [ ] Purell
 - [ ] First Aid
 - [ ] Knife
 - [ ] Heel tape
-- [ ] Chair or Sit Pad
+- [ ] Chair
+- [ ] Glasses
 
 ## Arm carry
 
@@ -70,7 +67,6 @@ List of what I take when I go on a backpacking trip.
 - [ ] Bars
 - [ ] Breakfast
 - [ ] Dinner
-- [ ] Coffee
 
 ## Wear
 
@@ -81,20 +77,14 @@ List of what I take when I go on a backpacking trip.
 - [ ] Hiking pants
 - [ ] Hiking socks
 - [ ] Hiking boots
-- [ ] Gaders
 - [ ] Walking Sticks
 
 ## Optionals
 
-- [ ] Sleeping bag liner
-- [ ] Waffle sleeping mat
 - [ ] Long John Underwear
-- [ ] Camera pouch and camera
 - [ ] Solar charger
 - [ ] Backpack clips
-- [ ] Glasses case
 - [ ] Mosquito Repellant
 - [ ] Solar Lamp
-- [ ] Pillow
 - [ ] Ribbon to mark the campsite
 
