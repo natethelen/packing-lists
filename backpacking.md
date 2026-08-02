@@ -22,19 +22,16 @@ List of what I take when I go on a backpacking trip.
      - [ ] Pillow
      - [ ] Tent
 - [ ] Clothes
-     - [ ] Underwear
+     - [ ] Underwear/socks
      - [ ] Quick dry shirt
-     - [ ] Fleece pants
-     - [ ] Black hiking coat
+     - [ ] Long-johns
      - [ ] Puffy Jacket
+     - [ ] Rain shell
      - [ ] Hiking socks
-     - [ ] Scarf
-     - [ ] Gloves
+     - [ ] Bandanna
+     - [ ] Warm Gloves
      - [ ] Warm Hat
-     - [ ] Rain Gear (optional)
-          - [ ] Rain/Shell Coat
-          - [ ] Rain/Shell Pants
-- [ ] Camsite shoes
+- [ ] Flip-flops
 - [ ] Food Prep
      - [ ] Cup
      - [ ] Spoon
@@ -50,10 +47,10 @@ List of what I take when I go on a backpacking trip.
 - [ ] Toothbrush, Toothpaste, Dental floss
 - [ ] Sunscreen
 - [ ] Face/Body wipes
-- [ ] Purell
+- [ ] Towel
 - [ ] First Aid
 - [ ] Knife
-- [ ] Heel tape
+- [ ] Heel tape / Bandaids
 - [ ] Chair
 - [ ] Glasses
 
@@ -70,20 +67,17 @@ List of what I take when I go on a backpacking trip.
 
 ## Wear
 
-- [ ] GPS Watch
 - [ ] Sun shirt
 - [ ] Sun hat
 - [ ] Sunglasses
 - [ ] Hiking pants
 - [ ] Hiking socks
-- [ ] Hiking boots
-- [ ] Walking Sticks
+- [ ] Hiking shoes
+- [ ] 2 x Walking Sticks
 
 ## Optionals
 
-- [ ] Long John Underwear
 - [ ] Solar charger
-- [ ] Backpack clips
 - [ ] Mosquito Repellant
 - [ ] Solar Lamp
 - [ ] Ribbon to mark the campsite
